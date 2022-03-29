@@ -2,8 +2,8 @@ library(RMySQL)
 
 
 mydb = dbConnect(MySQL(), 
-                 user='root', 
-                 password='Nimrod21@', 
+                 user='****', 
+                 password='*****', 
                  dbname='curso_r', 
                  host='localhost')
 
